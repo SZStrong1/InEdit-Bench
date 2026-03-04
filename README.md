@@ -6,7 +6,7 @@ Intelligent Image Editing Models </h1>
 <p align="center">
   <a href='https://arxiv.org'>
   <img src='https://img.shields.io/badge/Arxiv-xxxx.xxxxx-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> 
-  <a href='https://huggingface.co'>
+  <a href='https://huggingface.co/datasets/SZStrong/InEdit-Bench'>
   <img src='https://img.shields.io/badge/%F0%9F%A4%97%20Benchmark-InEdit Bench-yellow'></a>
 </p>
 
@@ -18,7 +18,7 @@ Intelligent Image Editing Models </h1>
 
 ## 🎉 News
 - **\[2026/3/2\]** Congratulations!
-- **\[2026/3/2\]** The InEdit-Bench is released at [InEdit-Bench](https://huggingface.co)!
+- **\[2026/3/2\]** The InEdit-Bench is released at [InEdit-Bench](https://huggingface.co/datasets/SZStrong/InEdit-Bench)!
 - **\[2026/3/2\]** The source code is publicly available here!
 
 ## 📖 Introduction
@@ -40,7 +40,7 @@ Our comprehensive evaluation of representative image editing models on InEdit-Be
 ## 🛠️ Quick Start
 
 ### 1. Image Download
-Download the images from [InEdit-Bench](https://huggingface.co), concatenate the initial and final images into a single image, and save in `data/`.
+Download the images from [InEdit-Bench](https://huggingface.co/datasets/SZStrong/InEdit-Bench), concatenate the initial and final images into a single image, and save in `data/`.
 
 For example:
 `data/dynamic_process/dynamic_process_1.png`
