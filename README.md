@@ -17,9 +17,9 @@ Intelligent Image Editing Models </h1>
 </div>
 
 ## 🎉 News
-- **\[2026/3/2\]** Congratulations!
-- **\[2026/3/2\]** The InEdit-Bench is released at [InEdit-Bench](https://huggingface.co/datasets/SZStrong/InEdit-Bench)!
-- **\[2026/3/2\]** The source code is publicly available here!
+- **\[2026/3/4\]** The InEdit-Bench is released at [InEdit-Bench](https://huggingface.co/datasets/SZStrong/InEdit-Bench)!
+- **\[2026/3/3\]** The source code is publicly available here!
+- **\[2026/2/21\]** Congratulations!
 
 ## 📖 Introduction
 
