@@ -4,8 +4,8 @@
 Intelligent Image Editing Models </h1>
 
 <p align="center">
-  <a href='https://arxiv.org'>
-  <img src='https://img.shields.io/badge/Arxiv-xxxx.xxxxx-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> 
+  <a href='https://arxiv.org/abs/2603.03657'>
+  <img src='https://img.shields.io/badge/Arxiv-2603.03657-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> 
   <a href='https://huggingface.co/datasets/SZStrong/InEdit-Bench'>
   <img src='https://img.shields.io/badge/%F0%9F%A4%97%20Benchmark-InEdit Bench-yellow'></a>
 </p>
@@ -77,10 +77,13 @@ outputs/{MODEL_NAME}/
 ## ⭐ Citation 
 If you find this repository helpful, please consider giving it a star ⭐ and citing:
 ```bibtex
-@misc{xxxx,
-    title={{InEdit-Bench}: Benchmarking Intermediate Logical Pathways for Intelligent Image Editing Models}, 
-    author={xxx},
-    journal={arXiv preprint arXiv:xxxx.xxxxx},
-    year={2026}
+@misc{sheng2026ineditbenchbenchmarkingintermediatelogical,
+      title={InEdit-Bench: Benchmarking Intermediate Logical Pathways for Intelligent Image Editing Models}, 
+      author={Zhiqiang Sheng and Xumeng Han and Zhiwei Zhang and Zenghui Xiong and Yifan Ding and Aoxiang Ping and Xiang Li and Tong Guo and Yao Mao},
+      year={2026},
+      eprint={2603.03657},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2603.03657}, 
 }
 ```
